@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+loop-audit.jsonl
+loop-report.json
+loop-report.md
